@@ -1,2 +1,17 @@
 Mehmet Burak Demirel - 22003396 - https://github.com/mburakdemirel
 My favorite video game is Assassin's Creed : Brotherhood
+
+commit 2f8eef7dbaee7ca35f8300d43c014ab4c35eae7a (HEAD -> main, origin/main, origin/HEAD) 
+Merge: 436d31f 6d63f43
+Author: Burak Demirel <91431041+mburakdemirel@users.noreply.github.com>
+Date:   Thu Feb 10 10:52:47 2022 +0300
+
+    Merge pull request #1 from mburakdemirel/new_information
+    
+    Favorite game added to info.txt
+
+commit 6d63f433f459721a7a0ebde98f5387c621794b63 (origin/new_information, new_information)
+Author: Burak Demirel <burak.demirel@ug.bilkent.edu.tr>
+Date:   Thu Feb 10 10:49:52 2022 +0300
+
+    Favorite game added to info.txt
